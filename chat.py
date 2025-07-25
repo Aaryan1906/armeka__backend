@@ -1,4 +1,5 @@
 import os
+from dotenv import load_dotenv  # NEW
 import tempfile
 import threading
 import speech_recognition as sr
@@ -12,8 +13,8 @@ from langchain_community.vectorstores import FAISS
 from langchain.chains import RetrievalQA
 from langchain_openai import ChatOpenAI
 
-# 🔐 API Key
-os.environ["OPENAI_API_KEY"] = "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"
+# 🌱 Load environment variables from .env
+load_dotenv()
 
 # 📄 Load documents
 loader = TextLoader("data/handbook.txt")
@@ -119,7 +120,6 @@ def main():
         if is_greeting(query):
             response = "Hello! How can I assist you?"
         else:
-            # Check if query is relevant
             docs = retriever.get_relevant_documents(query)
             if not docs:
                 response = "Sorry, I can only help with questions related to the ZevoTech employee handbook."
