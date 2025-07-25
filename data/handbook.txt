@@ -1,0 +1,155 @@
+[
+  {
+    "id": "1",
+    "title": "Calling Scripts",
+    "description": "Sample dialogues and principles used by representatives to engage candidates, including lead validation, callbacks, rejections, and confirmations.",
+    "keyConcepts": {
+      "Lead Validation": {
+        "definition": "The process of verifying if a candidate is genuinely interested and eligible for a job opportunity.",
+        "examples": [
+          "Hi, this is Alex from HireScout. Are you actively looking for a new opportunity?",
+          "May I confirm your job preferences and location flexibility?",
+          "Hi, I'm Priya from TalentBridge. Are you actively seeking new roles this quarter?",
+          "Could you tell me about your current role and what kind of change you're looking for?",
+          "Are you open to remote or hybrid opportunities, or do you prefer onsite roles?"
+        ],
+        "notes": [
+          "Use open-ended questions to assess interest.",
+          "Check for familiarity with your platform or company.",
+          "Include contextual questions to understand preferences.",
+          "Tone should remain curious, not pushy.",
+          "Ask about location and compensation expectations if appropriate."
+        ]
+      },
+      "Call-back Scenarios": {
+        "definition": "Approaches used when the candidate is not immediately available to speak.",
+        "examples": [
+          "'I understand you're busy. When would be a convenient time to call back?'",
+          "'Can I check in later today or tomorrow as per your availability?'",
+          "'I don\u2019t want to keep you if it\u2019s a bad time. May I schedule a callback for later today?'",
+          "'What time usually works best for you during the day?'"
+        ],
+        "notes": [
+          "Be respectful of their time.",
+          "Always seek permission before rescheduling.",
+          "Offer a time range rather than asking 'when are you free?'",
+          "Respect timezone differences when scheduling follow-ups."
+        ]
+      },
+      "Rejection Handling": {
+        "definition": "Tactful ways of responding when a candidate declines interest.",
+        "examples": [
+          "'Thank you for your time. If you change your mind, we\u2019re here for you.'",
+          "'I appreciate your honesty. Feel free to reach out in the future.'",
+          "'I appreciate your honesty. Should you be looking again in the future, do think of us.'",
+          "'Thanks for letting me know. I\u2019ll mark this down and won\u2019t disturb you again.'"
+        ],
+        "notes": [
+          "Leave a positive impression.",
+          "Don\u2019t argue or pressure them.",
+          "Always thank the user \u2014 even a 'no' is useful feedback.",
+          "Make it clear you won\u2019t spam or call again if unwanted."
+        ]
+      },
+      "Confirmation": {
+        "definition": "Steps taken when a candidate agrees to proceed.",
+        "examples": [
+          "'Awesome! You\u2019ll receive an email with the next steps shortly.'",
+          "'I\u2019ve recorded your interest. We\u2019ll follow up via WhatsApp or email soon.'",
+          "'Perfect. I\u2019ll send you a follow-up email with job descriptions and next steps right away.'",
+          "'Thank you. I've shared your interest with the hiring team. Expect communication soon.'"
+        ],
+        "notes": [
+          "Summarize the outcome of the call.",
+          "Set expectations clearly.",
+          "Set clear expectations about the next steps.",
+          "Mention communication medium: Email, WhatsApp, or call."
+        ]
+      }
+    },
+    "learningObjectives": [
+      "Approach a candidate professionally and confidently.",
+      "Handle real-time rejections or delays gracefully.",
+      "Use consistent scripts for confirmations and follow-ups."
+    ],
+    "proTips": [
+      "Maintain a warm tone and speak clearly.",
+      "Confirm availability before pitching.",
+      "Always record call outcomes in your CRM."
+    ],
+    "explanation": [
+      "Calling scripts streamline communication, reduce errors, and help new reps learn faster.",
+      "They allow for personalization while maintaining professionalism.",
+      "Every call scenario\u2014whether rejection or confirmation\u2014should be handled with empathy.",
+      "These scripts can be adapted but should follow the flow: greet \u2192 verify \u2192 pitch \u2192 confirm \u2192 close."
+    ]
+  },
+  {
+    "id": "2",
+    "title": "QMF Process",
+    "description": "Outlines the process of ensuring consistent quality and compliance in candidate and client conversations.",
+    "keyConcepts": {
+      "Candidate Validation": {
+        "definition": "Ensuring the candidate is actively looking for work and qualified for opportunities.",
+        "examples": [
+          "Can I confirm if you're still open to job opportunities as of this week?",
+          "When was your last interview or application submitted?",
+          "How recently have you updated your resume or applied for a job?",
+          "When did you last attend an interview or screening call?"
+        ],
+        "notes": [
+          "Check their recency and motivation.",
+          "Verify active email/phone.",
+          "Ask indirect questions if the candidate is hesitant.",
+          "Cross-reference with CRM or job portal activity when needed."
+        ]
+      },
+      "Documentation": {
+        "definition": "Recording call summaries, outcomes, and next steps in the CRM.",
+        "examples": [
+          "Log: Candidate confirmed interest. Shared 2 job profiles. Agreed to call back Thursday.",
+          "Logged: Rejected due to location mismatch. Follow-up not required.",
+          "Noted: Candidate unavailable till Monday. To follow up on Tuesday morning.",
+          "Logged: Interested in MNCs only. Shared 3 relevant openings."
+        ],
+        "notes": [
+          "Always timestamp entries.",
+          "Be objective and brief.",
+          "Be factual. Avoid personal opinions in notes.",
+          "Summarize critical parts like rejection reasons, callback requests, or feedback."
+        ]
+      },
+      "Client Coordination": {
+        "definition": "Working with clients to schedule interviews and relay feedback.",
+        "examples": [
+          "Client prefers interview at 3 PM Friday. Candidate has confirmed.",
+          "Feedback: Candidate did not meet communication expectations. Will reassign.",
+          "Client rescheduled. Updated candidate and got confirmation for new slot.",
+          "Client wants to review more profiles before proceeding. Notified candidate."
+        ],
+        "notes": [
+          "Record both candidate and client-side inputs.",
+          "Track and escalate delays in feedback.",
+          "Record dates, time slots, and platform (Zoom/Teams) if available.",
+          "Keep candidate looped in to avoid last-minute drop-offs."
+        ]
+      }
+    },
+    "learningObjectives": [
+      "Apply QMF parameters to judge communication quality.",
+      "Track and escalate potential issues.",
+      "Adhere to structured reporting for every client interaction."
+    ],
+    "proTips": [
+      "Treat every call as a potential audit trail.",
+      "Be clear, concise, and consistent in records.",
+      "Always follow up if feedback is pending >24 hrs."
+    ],
+    "explanation": [
+      "QMF (Quality Management Framework) ensures standards in call quality, tone, structure, and documentation.",
+      "It drives improvement in team performance and customer experience.",
+      "Every call is scored on multiple parameters: clarity, empathy, script usage, and outcomes.",
+      "Accurate documentation reduces future confusion and boosts accountability."
+    ]
+  }
+]
