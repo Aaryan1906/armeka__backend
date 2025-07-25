@@ -7,3 +7,4 @@ langchain-community
 transformers
 sentence-transformers
 torch
+langchain-openai==0.0.8
